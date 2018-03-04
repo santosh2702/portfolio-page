@@ -23,3 +23,34 @@
     </ul>
   </div></div>
 </nav></header>
+# contact
+ <div class="container">
+		  	<hr color="black">
+		  <div class="text-center">
+		  <h4 align="center">Contacts</h4>
+		  <form>
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
+      <label for="validationServer01">First name</label>
+      <input type="text" class="form-control is-valid" id="validationServer01" placeholder="First name" value="Mark" required>
+      <div class="valid-feedback">
+        Looks good!
+      </div>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationServer02">Last name</label>
+      <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Last name"  required>
+      <div class="valid-feedback">
+        Looks good!
+      </div>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationServerUsername">mail</label>
+      <div class="input-group">
+        <div class="input-group-prepend">
+        </div>
+        <input type="text" class="form-control is-valid" id="validationServerUsername" placeholder="mail" aria-describedby="inputGroupPrepend3" required>
+        <div class="invalid-feedback">
+          Please send mail
+        </div>
+      </div>
