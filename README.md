@@ -1,4 +1,5 @@
-# Portfolio-page
+# Portfolio page
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
 # Nav Bar
 <header><nav class="navbar navbar-expand-lg navbar-light bg-khaki">
   
