@@ -24,7 +24,7 @@
   </div></div>
 </nav></header>
 # contact
- <div class="container">
+ 
 		  	<hr color="black">
 		  <div class="text-center">
 		  <h4 align="center">Contacts</h4>
